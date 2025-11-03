@@ -1,0 +1,9 @@
+- creation des utilisateurs 
+- recommender des question a posée par rappport chaque user
+- enregistrer chaque conversation 
+- autocompleter pour les questions
+- summrize the reults 
+
+- compare the question proposer par rapport les autres questions
+ pour analyser les questions les plus frequent 
+
